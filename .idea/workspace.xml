@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a28c7f26-992d-4e5c-87ce-fe8515334449" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Pose2Mesh/smplifyx/calc_bleu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pose2Mesh/smplifyx/calc_bleu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pose2Mesh/smplifyx/run_inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pose2Mesh/smplifyx/run_inference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pose2Mesh/smplifyx/slt_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pose2Mesh/smplifyx/slt_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/Configs/Base.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/batch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/builders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/decoders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/dtw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/embeddings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/encoders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/external_metrics/mscoco_rouge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/external_metrics/sacrebleu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/face_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/global_context.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/initialization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/loss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/make_hand_maps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/make_hand_maps_numpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/metrics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/old_plot_videos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/optim/lamb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/optim/lookahead.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/optim/novograd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/optim/over9000.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/optim/radam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/optim/ralamb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/optim/ranger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/plot_videos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/prediction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/training.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/transformer_layers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text2Pose/vocabulary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_trans/signjoey/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/back_trans/signjoey/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_trans/signjoey/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/back_trans/signjoey/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_trans/signjoey/training.py" beforeDir="false" afterPath="$PROJECT_DIR$/back_trans/signjoey/training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_trans/signjoey/vocabulary.py" beforeDir="false" afterPath="$PROJECT_DIR$/back_trans/signjoey/vocabulary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/TextData.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/6200.ckpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/best.ckpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/1000.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/10000.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/10200.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/10400.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/10600.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/1200.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/1400.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/1600.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/1800.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/200.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/2000.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/2200.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/2400.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/2600.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/2800.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/3000.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/3200.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/3400.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/3600.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/3800.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/400.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/4000.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/4200.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/4400.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/4600.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/4800.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/5000.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/5200.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/5400.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/5600.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/5800.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/600.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/6000.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/6200.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/6400.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/6600.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/6800.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/7000.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/7200.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/7400.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/7600.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/7800.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/800.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/8000.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/8200.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/8400.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/8600.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/8800.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/9000.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/9200.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/9400.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/9600.dev.hyp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands/txt/9800.dev.hyp.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20xPX9Gt7kn41sIlK65kLnHt0Xl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run_demo" type="PythonConfigurationType" factoryName="Python">
+      <module name="Text2Mesh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/smplx/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="run_demo.py" />
+      <option name="PARAMETERS" value="--config $PROJECT_DIR$/../hand_trans/smplifyx/cfg_files/fit_smplx.yaml --data_folder $PROJECT_DIR$/demo/Data --output_folder $PROJECT_DIR$/demo/Data --visualize=False --model_folder $PROJECT_DIR$/../hand_trans/smplifyx/smplx/models/smplx --vposer_ckpt $PROJECT_DIR$/../hand_trans/smplifyx/V02_05 --part_segm_fn smplx_parts_segm.pkl" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a28c7f26-992d-4e5c-87ce-fe8515334449" name="Default Changelist" comment="" />
+      <created>1636983310224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636983310224</updated>
+      <workItem from="1636983312220" duration="10252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/back_trans/signjoey/data.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/back_trans/signjoey/data.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/back_trans/signjoey/data.py</url>
+          <line>215</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pose2Mesh/smplifyx/calc_bleu.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/back_trans/signjoey/data.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pose2Mesh/smplifyx/calc_bleu.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Text2Mesh$run_demo.coverage" NAME="run_demo Coverage Results" MODIFIED="1637001700701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
