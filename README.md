@@ -13,6 +13,7 @@ https://github.com/vchoutas/smplify-x
 - unzip the test archive under demo/Data
 - change the paths inside demo/config.yaml
 - call run_demo.py with the following arguments:
+
 --config
 /path/to/Text2Mesh/Pose2Mesh/smplifyx/cfg_files/fit_smplx.yaml
 --data_folder
@@ -31,6 +32,7 @@ Full evaluation and training code will be added upon acceptance of the manuscrip
 
 ## Disclaimer
 This repo contains code adapted and extended from:
+
 https://github.com/vchoutas/smplify-x
 
 https://github.com/neccam/slt
