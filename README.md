@@ -11,6 +11,7 @@ https://github.com/vchoutas/smplify-x
 - unip the model weights in demo/eval_model/sign_sample_model_200_r0t1_all_256_1024_2D_pose_hands
 - unzip the test and dev archive in demo/TextData and put the files in the TextData folder
 - unzip the test archive under demo/Data
+- change the paths inside demo/config.yaml
 - call run_demo.py with the following arguments:
 --config
 /path/to/Text2Mesh/Pose2Mesh/smplifyx/cfg_files/fit_smplx.yaml
