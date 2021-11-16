@@ -27,5 +27,12 @@ https://github.com/vchoutas/smplify-x
 --part_segm_fn
 smplx_parts_segm.pkl
 
-Full evaluation and training code will be added upon acceptance of the manuscript.
+Full evaluation and training code will be added upon acceptance of the manuscript. The selected demo sequences include success and failure cases to give a fair representation.
+
+## Disclaimer
+This repo contains code adapted and extended from:
+https://github.com/vchoutas/smplify-x
+https://github.com/neccam/slt
+
+Same licences apply.
 
