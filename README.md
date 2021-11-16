@@ -32,6 +32,7 @@ Full evaluation and training code will be added upon acceptance of the manuscrip
 ## Disclaimer
 This repo contains code adapted and extended from:
 https://github.com/vchoutas/smplify-x
+
 https://github.com/neccam/slt
 
 Same licences apply.
