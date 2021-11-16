@@ -1,0 +1,30 @@
+2021-11-15 20:02:36,487 Text2Mesh for SLP
+2021-11-15 20:02:46,958 Text Ground Truth: <s> und nun die wettervorhersage für morgen samstag den zweiten april .	Text Back-Translation: und nun die wettervorhersage für morgen samstag den achtundzwanzigsten mai .	
+2021-11-15 20:02:46,959 Recognition Beam Size: -1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	WER -1.00	(DEL: -1.00,	INS: -1.00,	SUB: -1.00)
+	BLEU-4 63.82	(BLEU-1: 74.71,	BLEU-2: 69.10,	BLEU-3: 66.24,	BLEU-4: 63.82)
+	CHRF 75.34	ROUGE 77.65
+2021-11-15 20:02:46,959 ./Text2Mesh/demo/Data/test/01April_2011_Friday_tagesschau-3374
+2021-11-15 20:02:48,554 Text Ground Truth: <s> liebe zuschauer guten abend .	Text Back-Translation: liebe zuschauer guten abend .	
+2021-11-15 20:02:48,554 Recognition Beam Size: -1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	WER -1.00	(DEL: -1.00,	INS: -1.00,	SUB: -1.00)
+	BLEU-4 81.87	(BLEU-1: 81.87,	BLEU-2: 81.87,	BLEU-3: 81.87,	BLEU-4: 81.87)
+	CHRF 90.32	ROUGE 89.44
+2021-11-15 20:02:48,554 ./Text2Mesh/demo/Data/test/01June_2010_Tuesday_heute-6603
+2021-11-15 20:02:50,873 Text Ground Truth: <s> und etwas kälter wird es dann im laufe des sonntags von osten .	Text Back-Translation: und auch der süden deutschlands ist zunächst noch recht freundlich während es von westen dank leichtem hochdruckeinfluss freundlicher bleibt .	
+2021-11-15 20:02:50,874 Recognition Beam Size: -1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	WER -1.00	(DEL: -1.00,	INS: -1.00,	SUB: -1.00)
+	BLEU-4 0.00	(BLEU-1: 20.00,	BLEU-2: 0.00,	BLEU-3: 0.00,	BLEU-4: 0.00)
+	CHRF 20.07	ROUGE 24.30
+2021-11-15 20:02:50,874 ./Text2Mesh/demo/Data/test/03February_2010_Wednesday_heute-2361
+2021-11-15 20:02:52,211 Text Ground Truth: <s> guten abend liebe zuschauer .	Text Back-Translation: guten abend liebe zuschauer .	
+2021-11-15 20:02:52,211 Recognition Beam Size: -1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	WER -1.00	(DEL: -1.00,	INS: -1.00,	SUB: -1.00)
+	BLEU-4 81.87	(BLEU-1: 81.87,	BLEU-2: 81.87,	BLEU-3: 81.87,	BLEU-4: 81.87)
+	CHRF 90.32	ROUGE 89.44
+2021-11-15 20:02:52,211 ./Text2Mesh/demo/Data/test/07February_2011_Monday_heute-4658
+2021-11-15 20:02:52,288 Total Mean Joint Error: 0.004492612782004566
+2021-11-15 20:02:52,289 Recognition Beam Size: -1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	WER -1.00	(DEL: -1.00,	INS: -1.00,	SUB: -1.00)
+	BLEU-4 40.03	(BLEU-1: 56.10,	BLEU-2: 47.69,	BLEU-3: 43.57,	BLEU-4: 40.03)
+	CHRF 58.73	ROUGE 70.21
