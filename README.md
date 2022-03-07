@@ -1,5 +1,5 @@
 # Text2Mesh
-This repository contains code for the CVPR submission #10348 "There and Back Again: 3D Mesh Sequence Generation from Text Using Back-Translation". 
+This repository contains code for "There and Back Again: 3D Mesh Sequence Generation from Text Using Back-Translation". 
 
 ## Installation
 Before using this code, please install the dependencies inside environment.yml.
